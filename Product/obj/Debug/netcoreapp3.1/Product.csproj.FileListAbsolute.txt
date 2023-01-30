@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\Product\bin\Debug\netcoreapp3.1\Product.exe
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\Product\bin\Debug\netcoreapp3.1\Product.deps.json
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.json
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\Product\bin\Debug\netcoreapp3.1\Product.runtimeconfig.dev.json
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\Product\bin\Debug\netcoreapp3.1\Product.dll
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\Product\bin\Debug\netcoreapp3.1\Product.pdb
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\Product\obj\Debug\netcoreapp3.1\Product.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\Product\obj\Debug\netcoreapp3.1\Product.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\Product\obj\Debug\netcoreapp3.1\Product.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\Product\obj\Debug\netcoreapp3.1\Product.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\Product\obj\Debug\netcoreapp3.1\Product.dll
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\Product\obj\Debug\netcoreapp3.1\Product.pdb
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\Product\obj\Debug\netcoreapp3.1\Product.genruntimeconfig.cache

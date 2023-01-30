@@ -1,0 +1,27 @@
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\obj\Debug\netcoreapp3.1\31.01 Homework.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\obj\Debug\netcoreapp3.1\31.01 Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\obj\Debug\netcoreapp3.1\31.01 Homework.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\obj\Debug\netcoreapp3.1\31.01 Homework.AssemblyInfo.cs
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\obj\Debug\netcoreapp3.1\31.01 Homework.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\bin\Debug\netcoreapp3.1\Drink.deps.json
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\bin\Debug\netcoreapp3.1\Drink.runtimeconfig.json
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\bin\Debug\netcoreapp3.1\Drink.runtimeconfig.dev.json
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\bin\Debug\netcoreapp3.1\Drink.exe
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\bin\Debug\netcoreapp3.1\Product.deps.json
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\bin\Debug\netcoreapp3.1\Product.runtimeconfig.json
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\bin\Debug\netcoreapp3.1\Product.runtimeconfig.dev.json
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\bin\Debug\netcoreapp3.1\Product.exe
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\bin\Debug\netcoreapp3.1\31.01 Homework.exe
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\bin\Debug\netcoreapp3.1\31.01 Homework.deps.json
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\bin\Debug\netcoreapp3.1\31.01 Homework.runtimeconfig.json
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\bin\Debug\netcoreapp3.1\31.01 Homework.runtimeconfig.dev.json
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\bin\Debug\netcoreapp3.1\31.01 Homework.dll
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\bin\Debug\netcoreapp3.1\31.01 Homework.pdb
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\bin\Debug\netcoreapp3.1\Drink.dll
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\bin\Debug\netcoreapp3.1\Product.dll
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\bin\Debug\netcoreapp3.1\Drink.pdb
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\bin\Debug\netcoreapp3.1\Product.pdb
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\obj\Debug\netcoreapp3.1\31.01 Homework.csproj.CopyComplete
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\obj\Debug\netcoreapp3.1\31.01 Homework.dll
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\obj\Debug\netcoreapp3.1\31.01 Homework.pdb
+C:\Users\HP\Desktop\C#\Today\31.01 Homework\31.01 Homework\obj\Debug\netcoreapp3.1\31.01 Homework.genruntimeconfig.cache

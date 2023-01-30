@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_30._01_Lessontask</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="C:\Users\HP\Desktop\C#\30.01 Lessontask\30.01 Lessontask\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\HP\Desktop\C#\30.01 Lessontask\30.01 Lessontask\.editorconfig" />
+  </ItemGroup>
+
+</Project>

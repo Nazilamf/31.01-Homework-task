@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "31.01 Homework/1.0.0": {
+        "dependencies": {
+          "Drink": "1.0.0",
+          "Product": "1.0.0"
+        },
+        "runtime": {
+          "31.01 Homework.dll": {}
+        }
+      },
+      "Drink/1.0.0": {
+        "runtime": {
+          "Drink.dll": {}
+        }
+      },
+      "Product/1.0.0": {
+        "runtime": {
+          "Product.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "31.01 Homework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Drink/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Product/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
